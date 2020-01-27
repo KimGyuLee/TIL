@@ -5,7 +5,7 @@ Folder Structure
 -------------------------------
 #### 1) [Data-Analytics-using-Python]()
 
-''' bash
+'''.
 ├── Project
 │   ├── 1. Health-care
 │   ├── 2. Surface-Scale-defects
@@ -25,7 +25,7 @@ Folder Structure
 
 #### 2) [SQL]()
 
-''' bash
+'''.
 ├── SQL/DB (MySQL)
 │   ├── 1. RDBMS
 │   ├── 2. Create-Databases
