@@ -3,7 +3,7 @@ Today I Learned
 * 2019.08.27 ~
 
 
-Folder Structure
+Contents
 -------------------------------
 ### 1) [Data-Analytics-using-Python](https://github.com/KimGyuLee/TIL/tree/master/Data-Analytics-using-Python)
 
