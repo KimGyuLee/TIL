@@ -1,9 +1,10 @@
-# Today I Learned
-----------------------------------------------------------------------------------
+Today I Learned
+-------------------------------
 
-# Folder Structure
-----------------------------------------------------------------------------------
-# 1) Data-Analytics-using-Python
+Folder Structure
+-------------------------------
+#### 1) [Data-Analytics-using-Python]()
+
 ''' bash
 ├── Project
 │   ├── 1. Health-care
@@ -22,7 +23,8 @@
 └── CDAP (Certified-Data-Analyst-using-Python)
 '''
 
-# 2) SQL
+#### 2) [SQL]()
+
 ''' bash
 ├── SQL/DB (MySQL)
 │   ├── 1. RDBMS
@@ -35,6 +37,5 @@
 └── SQLD (SQL-Developer)
 '''
 
-# 3) Google-Analytics
+#### 3) [Google-Analytics]()
 
-# 4) 
