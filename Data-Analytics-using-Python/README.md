@@ -14,7 +14,7 @@ Table-of-Contents
 **1-7. [Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()**  
 **1-8. [Boston-Housing-Prices]()**    
 **1-9. [Titanic-dataset]()**  
-
+**1-10. [Pima-Indians-Diabetes]()**   
 
 ## 2. [Perfect-Guide-for-Python-Machine-Learning](https://github.com/KimGyuLee/Perfect-Guide-for-Python-Machine-Learning)  
 **2-1. Numpy-Pandas**  
