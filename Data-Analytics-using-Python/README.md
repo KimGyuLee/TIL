@@ -10,16 +10,16 @@ Table-of-Contents
 1-3. [Commerce]()  
 
 
-**2. Perfect-Guide-for-Python-Machine-Learning**  
-2-1. [Numpy-Pandas]()
-2-2. [Scikit-learn]()
-2-3. [Evaluation]()
-2-4. [Classification]()
-2-5. [Regression]()
-2-6. [Dimension-Reduction]()
-2-7. [Clustering]()
-2-8. [Text-mining]()
-2-9. [Recommendation]()
+**2. [Perfect-Guide-for-Python-Machine-Learning](https://github.com/KimGyuLee/Perfect-Guide-for-Python-Machine-Learning)**  
+2-1. [Numpy-Pandas]()  
+2-2. [Scikit-learn]()  
+2-3. [Evaluation]()  
+2-4. [Classification]()  
+2-5. [Regression]()  
+2-6. [Dimension-Reduction]()  
+2-7. [Clustering]()  
+2-8. [Text-mining]()  
+2-9. [Recommendation]()  
 
 
 **3. CDAP (Certified-Data-Analyst-using-Python)**
