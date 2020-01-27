@@ -4,8 +4,7 @@ Today I Learned
 Folder Structure
 -------------------------------
 ### 1) [Data-Analytics-using-Python]()
-
-'''.  
+  
 ├── Project  
 │   ├── 1. Health-care  
 │   ├── 2. Surface-Scale-defects  
@@ -21,11 +20,10 @@ Folder Structure
 │   ├── 8. Text-mining  
 │   └── 9. Recommendation  
 └── CDAP (Certified-Data-Analyst-using-Python)  
-'''
+
 
 ### 2) [SQL]()
-
-'''.  
+  
 ├── SQL/DB (MySQL)  
 │   ├── 1. RDBMS  
 │   ├── 2. Create-Databases  
@@ -35,7 +33,7 @@ Folder Structure
 │   └── 6. SQL-for-Data-Analysis  
 ├── SQL-for-Marketer  
 └── SQLD (SQL-Developer)  
-'''
 
-#### 3) [Google-Analytics]()
+
+### 3) [Google-Analytics]()
 
