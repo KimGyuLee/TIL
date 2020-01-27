@@ -6,8 +6,14 @@ Table-of-Contents
 ------------------------------------
 ## 1. Project  
 **1-1. [Health-care - 중증질환 위험도 예측 모델 개발 및 개선안 도출](https://github.com/KimGyuLee/Health-Care-Big-Data-Project)**  
-**1-2. [Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()**  
-**1-3. [Commerce]()**  
+**1-2. [Commerce]()**  
+**1-3. [Predicting lifetime members]()**  
+**1-4. [Predicting customer cancellation]()**  
+**1-5. [Predicting faults]()**  
+**1-6. [Kmeans clustering for depression patients]()**  
+**1-7. [Surface-Scale-defects - Scale 불량 원인 분석 및 개선안 도출]()**  
+**1-8. [Boston-Housing-Prices]()**    
+**1-9. [Titanic-dataset]()**  
 
 
 ## 2. [Perfect-Guide-for-Python-Machine-Learning](https://github.com/KimGyuLee/Perfect-Guide-for-Python-Machine-Learning)  
