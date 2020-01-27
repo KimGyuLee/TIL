@@ -14,7 +14,7 @@ Folder Structure
 ├── ├── 1-4. Predicting customer cancellation  
 ├── ├── 1-5. Predicting faults  
 ├── ├── 1-6. Kmeans clustering for depression patients  
-├── ├── 1-7. Surface-Scale-defects
+├── ├── 1-7. Surface-Scale-defects  
 ├── ├── 1-8. Boston-Housing-Prices  
 ├── ├── 1-9. Titanic-dataset  
 ├── 2. Perfect-Guide-for-Python-Machine-Learning  
