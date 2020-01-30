@@ -31,7 +31,7 @@ Contents
 └── 3. CDAP (Certified-Data-Analyst-using-Python)  
 
 
-### 2) [SQL]()
+### 2) [SQL](https://github.com/KimGyuLee/SQL)
 
 ├── 1. SQL/DB (MySQL)  
 ├── ├── 1-1. RDBMS  
